@@ -1,12 +1,9 @@
-# Ask me anything!
+## Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+### [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
-
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
--
+I get a lot of questions by email. If you ask them here, anyone can read the answer.<br>
+You're welcome to ask *anything* &mdash; personal questions, work, life, code, etc.
 
 ### Guidelines
 
@@ -14,7 +11,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
-- Be civil and polite :)
+- Be civil and polite.
 
 ### Links
 
